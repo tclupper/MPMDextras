@@ -7,7 +7,7 @@
 
 ### Notes:
 * Print (1) of each part
-* They can be printd on a stock MPMD
+* They can be printd on a regular MPMD
 * No supports needed
 * For use with (2) standard 608ZZ ball bearings (8x22x7 mm)
 * The front and back supports are srapped down using a cable tie: 2.54mm wide (0.1 inches) with at least 115mm (4.5 inches) of working length. The part number was Ty-Its UB140A-B, but any "18 lbs" 2.54mm wide cable tie will do	
@@ -21,9 +21,9 @@
 ### Notes:
 * Run MPMD using Octoprint on the Raspberry Pi
 * Utilizes short, 1 foot USB to micro USB cable (Sabrent CB-UM61)
-* Relies on the [firmware of Demitrios V. at aegean-odyssey](https://github.com/aegean-odyssey/mpmd_marlin_1.1.x)
+* Relies on the [MPMD firmware of Demitrios V. at aegean-odyssey](https://github.com/aegean-odyssey/mpmd_marlin_1.1.x)
 * Print (2) of each part (They hold the Pi between the rails)
-* They can be printd on a stock MPMD
+* They can be printd on a regular MPMD
 * All dimensions in mm
 * No supports needed
 * The brackets are attached to the Pi using 4 cable ties: 2.54mm wide (0.1 inches) with at least 70mm (2-3/4 inches) of working length. Any standard "18 lbs" 0.1  inch wide 4 inch cable tie will do
