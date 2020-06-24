@@ -1,4 +1,4 @@
-# Extra parts for the Monoprice Mini Delta (MPMD) 3D printer
+# Extras for the Monoprice Mini Delta (MPMD) 3D printer
 * Author:  Tom Clupper
 * Date: 4/11/2020
 * License: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
@@ -14,6 +14,7 @@
 
 ![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/SpoolHolder/SpoolHolderWithSpool.jpg)
 ![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/SpoolHolder/SpoolHolderNoSpool.jpg)
+
 
 ## Raspberry Pi 3 holder (2 parts) 
 
