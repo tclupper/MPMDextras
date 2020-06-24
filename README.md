@@ -13,8 +13,8 @@
             at least 115mm (4.5 inches) of working length. The part number was Ty-Its UB140A-B,
             but any "18 lbs" 2.54mm wide cable tie will do	
 
-![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/SpoolHolder/SpoolHolderWithSpool.jpg)
-![Image of Spool holder w/ spool](https://github.com/tclupper/MPMDextras/SpoolHolder/SpoolHolderNoSpool.jpg)
+![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/SpoolHolder/SpoolHolderWithSpool.jpg)
+![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/SpoolHolder/SpoolHolderNoSpool.jpg)
 
 ## Raspberry Pi 3 holder (2 parts)  
     NOTES:
@@ -29,5 +29,5 @@
             at least 70mm (2-3/4 inches) of working length. Any standard "18 lbs"
             0.1 inch wide 4 inch cable tie will do
     
-![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/PiHolder/PiHolderFront.jpg)
-![Image of Spool holder w/ spool](https://github.com/tclupper/MPMDextras/PiHolder/PiHolderBack.jpg)
+![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/PiHolder/PiHolderFront.jpg)
+![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/PiHolder/PiHolderBack.jpg)
