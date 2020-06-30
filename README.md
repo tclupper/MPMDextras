@@ -31,3 +31,7 @@
     
 ![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/PiHolder/PiHolderFront.jpg)
 ![Image of Spool holder w/o spool](https://github.com/tclupper/MPMDextras/blob/master/PiHolder/PiHolderBack.jpg)
+
+## Other comments
+
+The only other mod I do to the MPMDs that I have is to replace the oem bed sheet with a sheet of [BuildTak PEI](https://www.printedsolid.com/collections/flexplates/products/buildtak-pei-sheets?variant=31849763209301).
